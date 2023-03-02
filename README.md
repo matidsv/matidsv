@@ -1,10 +1,10 @@
 # Hola 😁, soy Matias Da Silva
 
-#### Experiencia 
+### Experiencia 
 
 Trabajo hace 13 años como **encargado de mantenimiento** en un Elepem a cargo de el **Ejercito de Salvacion** en Uruguay
 
-#### Sobre mi 
+### Sobre mi 
 Soy un aficionado a la tecnologia y actualmente intento entrar en el mundo del desarrollo con la ayuda de [**Guillermo Rodas**](https://github.com/glrodasz) y [**Undefined Academy**](https://undefined.academy/)
 
 ### Tarea bootcamp 🧑‍💻
