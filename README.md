@@ -1,16 +1,28 @@
-### Hi there 👋
+# hola 😁, soy Matias Da Silva
 
-<!--
-**matidsv/matidsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Experiencia 
 
-Here are some ideas to get you started:
+Trabajo hace 13 años como **encargado de mantenimiento** en un Elepem a cargo de el **Ejercito de Salvacion** en Uruguay
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Sobre mi 
+Soy un aficionado a la tecnologia y actualmente intento entrar en el mundo del desarrollo con la ayuda de [**Guillermo Rodas**](https://github.com/glrodasz) y [**Undefined Academy**](https://undefined.academy/)
+
+### Tarea bootcamp 🧑‍💻
+
+ **_Repasando algunos comandos_**
+| **Comando** | **Descripcion** |
+|-------------|-----------------|
+| Whoami | Show your username |
+| Ls | List files |
+| Cd *dir* | Change directory to *dir* | 
+| Pwd | Show current directory |
+| Mkdir *dir* | Make directory *dir* |
+
+**_Algunos alias utiles_**
+
+* **alias mkdircd='function _mkdircd(){ mkdir -p "$1"; cd "$1"; };_mkdircd'**
+  Crear un directorio y acceder directamente al directorio creado.
+* **alias gh="history | grep"**
+  Encontrar un comando en el historial de la terminal mediante el comando **gh**
+* **alias .3="cd ../../.."**
+  **.3** para subir 3 niveles en la estructura de directorios.
